@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=Deen%20in%20Dunya%20Admin&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Content%20%26%20user%20management%20dashboard&descAlignY=58&descSize=16" alt="Deen in Dunya Admin" />
+<img src=".github/banner.svg" width="100%" alt="Deen in Dunya Admin — Content & user management dashboard" />
 
 <p><b>📊 Admin Dashboard</b></p>
 
